@@ -1,0 +1,3 @@
+3.930
+AMD Ryzen 5 PRO 2500U w @ 2.0 GHz, Windows Subsystem for Linux, Ubuntu 18.04.1 LTS, gcc 7.3.0
+0.25
